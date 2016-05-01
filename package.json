@@ -1,0 +1,33 @@
+{
+  "name": "opencv-image-stream",
+  "version": "1.0.0",
+  "description": "stream images to openCV matrix objects",
+  "main": "image-mat-transform.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "node",
+    "opencv",
+    "stream",
+    "image",
+    "computer",
+    "vision"
+  ],
+  "author": "john elliott",
+  "license": "MIT",
+  "devDependencies": {
+    "concat-stream": "^1.5.1",
+    "tape": "^4.5.1"
+  },
+  "dependencies": {
+    "opencv": "^5.0.0"
+  }
+}
