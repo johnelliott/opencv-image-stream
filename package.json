@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "tbd"
+    "url": "https://github.com/johnelliott/opencv-image-stream.git"
   },
   "keywords": [
     "node",
@@ -21,7 +21,7 @@
     "computer",
     "vision"
   ],
-  "author": "john elliott",
+  "author": "john@primtivemachine.com",
   "license": "MIT",
   "devDependencies": {
     "concat-stream": "^1.5.1",
